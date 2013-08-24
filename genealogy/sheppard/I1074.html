@@ -1,0 +1,35 @@
+<HTML><HEAD><TITLE>Nicholas DAY</TITLE><link rel='stylesheet' href='../styles.css' type='text/css' />
+  <style>
+    .graph {
+      width: 800px;
+      height: 400px;
+      margin: 20px auto 0 auto;
+    }
+  </style>
+  <script src='../jquery.min.js'></script>
+  <script src='../raphael-min.js'></script>
+  <script src='../morris.js'></script>
+</HEAD><BODY TEXT="#000000"><div align="center"><div style="background-color:#99CCFF;width:90%;height:30px;border:1px solid"><font face="Trebuchet MS" size="5" color="#FFFFFF">Nicholas DAY</font></div> <br /></div><div align="center" style="height:190px;"><h2>Event Timeline</h2><div style="float: right;border-top: 1px solid #ccc; border-left: 1px solid #ccc; border-bottom: 1px solid #ccc;"><h2 style="border-top: 1px solid #ccc; border-left: 1px solid #ccc; border-bottom: 1px solid #ccc;font-family: 'verdana', 'helvetica', 'arial', sans-serif; letter-spacing: 0.15em; text-transform: uppercase; font-size: 11px; color: #666; font-weight: normal;">Links</h2><ul style="margin: 5px 5px 5px 5px;"><li style=" margin-left: 0px; font-family: 'verdana', 'helvetica', 'arial', sans-serif; font-size: 10px;"><a href="index.html" title="Home">Home</a></li><li style=" margin-left: 0px; font-family: 'verdana', 'helvetica', 'arial', sans-serif; font-size: 10px;"><a href="sheppard.html" title="Name Index">Names</a></li><li style=" margin-left: 0px; font-family: 'verdana', 'helvetica', 'arial', sans-serif; font-size: 10px;"><a href="marriages_husbands.html" title="Marriage Index">Marriages</a></li></ul></div><div id='graph-text-values' class='graph' style='height:150px'></div>  <script>
+    $(function () {
+      var day_data = [
+{'period': '1620-01-01', 'event': "Birth in Poss. Wales"},{'period': '1705-01-01', 'event': "Death in Baltimore Co., MD"},{'period': '1658-01-01', 'event': "Immigration"},{'period': '1704-12-01', 'event': "Will in Baltimore Co., MD"},{'period': '1705-02-04', 'event': "Probate in Baltimore Co., MD"},];
+      Morris.Line({
+        element: 'graph-text-values',
+        data: day_data,
+        xkey: 'period',
+        ykeys: ['event'],
+        labels: ['event'],
+		numLines: 1
+      });
+    });
+  </script>  
+<br /><br /></div><a name="events"></a><div align="center"><h2>Events</h2><table border="0" cellpadding="0" cellspacing="1" width="600px"><tr bgcolor="#EEEEEE"><td rowspan="1">Birth</td><td>1620</td><td>Poss. Wales</td></tr><tr bgcolor="#FFFFFFF"><td rowspan="1">Death</td><td>Abt Jan 1705</td><td>Baltimore Co., MD</td></tr><tr bgcolor="#EEEEEE"><td rowspan="2">Immigration</td><td>1658</td><td></td></tr><tr bgcolor="#EEEEEE"><td colspan="2">Nicholas Day was transported in 1658.</td></tr><tr bgcolor="#FFFFFFF"><td rowspan="2">Will</td><td>1 Dec 1704</td><td>Baltimore Co., MD</td></tr><tr bgcolor="#FFFFFFF"><td colspan="2">Nicholas Day's will written: 1 Dec 1704 in Baltimore co., MD, probated 4 Feb 1705<BR />To son Nicholas and heirs, ``William the Conquerer'' on Gunpowder R.; in event of his death without issue to pass to 2nd son Edward. To dau. Sarah and Obediah Picchet, personalty. To 2 young daus. Elizabeth and Dinah, dwelling plandation at decease of wife. To wife Sarah, extrx, residue of estate jointly, with 5 children aforesaid. Witn: John Whittner, Kath. Whittner, John Deaver, Hannah Deaver.</td></tr><tr bgcolor="#EEEEEE"><td rowspan="2">Probate</td><td>4 Feb 1705</td><td>Baltimore Co., MD</td></tr><tr bgcolor="#EEEEEE"><td colspan="2">will probated: 4 Feb 1705 in Baltimore co., MD</td></tr></table><br /><br /><h2>Marriages</h2><table border="0"><tr><td><ul><li><a href="I1075.html">Sarah COX</a> (1684) &gt; <a href="F355_Nicholas_DAY_and_Sarah_COX.html">details</a><br/><br/><center><B>Children</B><TABLE BORDER="2" CELLPADDING="2"><TR><TD ALIGN=LEFT>&gt; <B><A HREF="I1000.html">Nicholas </A></B> (1685 - 1739) &lt;</TD><TD ALIGN=LEFT><B><A HREF="I1078.html">Elizabeth </A></B> (1691 - 1728)</TD></TR><TR><TD ALIGN=LEFT>&gt; <B><A HREF="I2400.html">Sarah </A></B> (1686 - 1758) &lt;</TD><TD ALIGN=LEFT><B><A HREF="I1079.html">Dinah </A></B> (1694 - )</TD></TR><TR><TD ALIGN=LEFT><B><A HREF="I1076.html">Edward </A></B> (1689 - 1746)</TD><TD ALIGN=LEFT></TD></TR></TABLE></center></li></ul></td></tr></table></div><div align="center"><h2>Sources</h2><table border="0" width="450px"><tr bgcolor="FFFFFFF"><td>Nicholas Day<br/>Wally Garchow &lt;wally@calweb.com&gt;</td></tr><tr bgcolor="EEEEEE"><td>Ancestors of Elizabeth Day from Ancestry gedcom F3488<br/>Wgynn Henry Angle</td></tr><tr bgcolor="FFFFFFF"><td>educated guess<br/>Michael Sheppard</td></tr><tr bgcolor="EEEEEE"><td>The Early Settlers of Maryland<br/>929.3 Sk57e<br/>Gust Skordas</td></tr><tr bgcolor="FFFFFFF"><td>Index of Maryland Colonial Willa 1634-1777<br/>929.3 M276in 1967<br/>James M. Magruder, Jr</td></tr><tr bgcolor="EEEEEE"><td>The Maryland Calendar of Wills<br/>also as: Maryland Calendar of Wills 1720-1726 (Vol V)<br/>Jane Baldwin Cotton</td></tr></table></div><br /><br /><br /><div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr bgcolor="#A0D0A0"><td colspan="2" align="center"><b>How to cite this page as a source</b></td></tr>
+<tr bgcolor="#FEFEFE"><td>author:&nbsp;</td><td>Michael Sheppard &lt; sheppard@cs.unm.edu &gt;</td></tr>
+<tr bgcolor="#FEFEFE"><td>title:&nbsp;</td><td>Genealogical events for Nicholas DAY</td></tr>
+<tr bgcolor="#FEFEFE"><td>url:&nbsp;</td><td>http://handcraftsman.github.io/genealogy/sheppard/I1074.html</td></tr>
+<tr bgcolor="#FEFEFE"><td>updated:&nbsp;</td><td>11 Nov 2002</td></tr></table><br></div><HR NOSHADE="1" /><div style="float: right;border-top: 1px solid #ccc; border-left: 1px solid #ccc; border-bottom: 1px solid #ccc;"><h2 style="border-top: 1px solid #ccc; border-left: 1px solid #ccc; border-bottom: 1px solid #ccc;font-family: 'verdana', 'helvetica', 'arial', sans-serif; letter-spacing: 0.15em; text-transform: uppercase; font-size: 11px; color: #666; font-weight: normal;">Links</h2><ul style="margin: 5px 5px 5px 5px;"><li style=" margin-left: 0px; font-family: 'verdana', 'helvetica', 'arial', sans-serif; font-size: 10px;"><a href="index.html" title="Home">Home</a></li><li style=" margin-left: 0px; font-family: 'verdana', 'helvetica', 'arial', sans-serif; font-size: 10px;"><a href="sheppard.html" title="Name Index">Names</a></li><li style=" margin-left: 0px; font-family: 'verdana', 'helvetica', 'arial', sans-serif; font-size: 10px;"><a href="marriages_husbands.html" title="Marriage Index">Marriages</a></li></ul></div><CENTER>Copyright &copy; 1985-2013 Michael Sheppard &lt; sheppard@cs.unm.edu &gt;<br /> - 
+	Material on this site may be quoted or reproduced by those engaged in non-commercial genealogical 
+	research without prior permission, provided appropriate credit is given to the compiler. Any 
+	commercial use of this material without written permission of the compiler is prohibited.</CENTER></BODY></HTML>

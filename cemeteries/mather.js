@@ -1,0 +1,38 @@
+{
+'dateTimeForamt': 'iso8601',
+'events': [
+
+  {'start': '01 Dec 1991','title': 'Nola E Mather', 'description': 'Name: Nola E Mather<BR>Born: 29 Apr 1929<BR>Died: 1 Dec 1991<BR>Marker Text: s/w John W.<BR>', 'image': 'mather_2345.png'},
+  {'start': '10 Mar 2002','title': 'Willie L Havins', 'description': 'Name: Willie L Havins<BR>Born: 8 Mar 1932<BR>Died: 10 Mar 2002<BR>Marker Text: s/w Letha Jo<BR>Note: m. 25 May 1952<BR>', 'image': 'mather_2306.png'},
+  {'start': '11 Apr 1983','title': 'Lula Mae Mather', 'description': 'Name: Lula Mae Mather<BR>Born: 17 Aug 1903<BR>Died: 11 Apr 1983<BR>Marker Text: s/w Jack Pancho<BR>', 'image': 'mather_2330.png'},
+  {'start': '11 Mar 1899','title': 'Richard Bertram', 'description': 'Name: Richard Bertram<BR>Born: 22 Apr 1888<BR>Died: 11 Mar 1899<BR>', 'image': 'mather_2305.png'},
+  {'start': '12 Dec 2001','title': 'Katherine Louise Brown', 'description': 'Name: Katherine Louise Brown<BR>Born: 4 Nov 1958<BR>Died: 12 Dec 2001<BR>', 'image': 'mather_2351.png'},
+  {'start': '12 Mar 1999','title': 'Patsy Ann Mather Gray', 'description': 'Name: Patsy Ann Mather Gray<BR>Born: 4 Oct 1942<BR>Died: 12 Mar 1999<BR>', 'image': 'mather_2311.png'},
+  {'start': '17 Feb 1918','title': 'Infant Mather', 'description': 'Name: Infant Mather<BR>Born: 16 Feb 1918<BR>Died: 17 Feb 1918<BR>Marker Text: infant dau of Lee & Ida Mather<BR>', 'image': 'mather_2328.png'},
+  {'start': '17 Feb 2006','title': 'Nina Jewel Baker', 'description': 'Name: Nina Jewel Baker<BR>Born: 8 Aug 1919<BR>Died: 17 Feb 2006<BR>Marker Text: s/w J.L.<BR>', 'image': 'mather_2323.png'},
+  {'start': '02 Dec 1908','title': 'Vera Leona Mather', 'description': 'Name: Vera Leona Mather<BR>Born: 17 May 1905<BR>Died: 2 Dec 1908<BR>', 'image': 'mather_2316.png'},
+  {'start': '02 Jan 1959','title': 'Ida Pearl Mather', 'description': 'Name: Ida Pearl Mather<BR>Born: 7 Apr 1884<BR>Died: 2 Jan 1959<BR>Marker Text: s/w Robert Lee<BR>', 'image': 'mather_2326.png'},
+  {'start': '02 Nov 1956','title': 'Gary D. Mather', 'description': 'Name: Gary D. Mather<BR>Born: 1 Nov 1956<BR>Died: 2 Nov 1956<BR>', 'image': 'mather_2333.png'},
+  {'start': '02 Oct 2002','title': 'Letha Jo (Mather) Havins', 'description': 'Name: Letha Jo (Mather) Havins<BR>Born: 25 Nov 1934<BR>Died: 2 Oct 2002<BR>Marker Text: s/w Willie<BR>Note: m. 25 May 1952<BR>', 'image': 'mather_2306.png'},
+  {'start': '20 Sep 2003','title': 'May Ozell (Duncan) Mather', 'description': 'Name: May Ozell (Duncan) Mather<BR>Born: 2 May 1912<BR>Died: 20 Sep 2003<BR>Marker Text: s/w Charlie<BR>', 'image': 'mather_2310.png'},
+  {'start': '21 Apr 1923','title': 'Mary E Mather', 'description': 'Name: Mary E Mather<BR>Born: 28 Feb 1851<BR>Died: 21 Apr 1923<BR>Marker Text: s/w Andrew<BR>', 'image': 'mather_2318.png'},
+  {'start': '23 Apr 1930','title': 'Jack Pancho Mather', 'description': 'Name: Jack Pancho Mather<BR>Born: 4 Jan 1902<BR>Died: 23 Apr 1930<BR>Marker Text: s/w Lula Mae<BR>', 'image': 'mather_2330.png'},
+  {'start': '23 Jul 1929','title': 'Andrew Mather', 'description': 'Name: Andrew Mather<BR>Born: 11 Jun 1851<BR>Died: 23 Jul 1929<BR>Marker Text: s/w Mary E.<BR>', 'image': 'mather_2318.png'},
+  {'start': '25 Nov 1993','title': 'Charlie Lindell (Huldy) Mather', 'description': 'Name: Charlie Lindell (Huldy) Mather<BR>Born: 1 Mar 1908<BR>Died: 25 Nov 1993<BR>Marker Text: s/w May<BR>', 'image': 'mather_2310.png'},
+  {'start': '27 Aug 1945','title': 'Robert Lee Mather', 'description': 'Name: Robert Lee Mather<BR>Born: 18 Jan 1880<BR>Died: 27 Aug 1945<BR>Marker Text: s/w Ida Pearl<BR>', 'image': 'mather_2326.png'},
+  {'start': '27 Dec 1995','title': 'Wayne Trenton Browning', 'description': 'Name: Wayne Trenton Browning<BR>Born: 28 May 1930<BR>Died: 27 Dec 1995<BR>Marker Text: Sgt US Army Korea; a Mason<BR>Note: s/w Dorothy; m. 31 Aug 1956<BR>', 'image': 'mather_2342.png'},
+  {'start': '27 May 1907','title': 'Nancy Marcus', 'description': 'Name: Nancy Marcus<BR>Born: 4 Apr 1827<BR>Died: 27 May 1907<BR>', 'image': 'mather_2317.png'},
+  {'start': '27 Oct 1909','title': 'Freddie Mather', 'description': 'Name: Freddie Mather<BR>Born: 14 Oct 1909<BR>Died: 27 Oct 1909<BR>Marker Text: sonof Lee & Ida Mather<BR>', 'image': 'mather_2327.png'},
+  {'start': '27 Sep 1944','title': 'Douglas Mather', 'description': 'Name: Douglas Mather<BR>Born: 27 Nov 1922<BR>Died: 27 Sep 1944<BR>', 'image': 'mather_2332.png'},
+  {'start': '28 May 1999','title': 'Thomas P. Mather', 'description': 'Name: Thomas P. Mather<BR>Born: 28 May 1957<BR>Died: 28 May 1999<BR>', 'image': 'mather_2344.png'},
+  {'start': '29 Apr 1994','title': 'Kimberly Dawn Dayton George', 'description': 'Name: Kimberly Dawn Dayton George<BR>Born: 13 Jul 1960<BR>Died: 29 Apr 1994<BR>Marker Text: dau of Winston Dayton<BR>', 'image': 'mather_2335.png'},
+  {'start': '30 Sep 1913','title': 'Victor Bertram', 'description': 'Name: Victor Bertram<BR>Born: 15 Jul 1838<BR>Died: 30 Sep 1913<BR>Marker Text: s/w John Etta Bertram<BR>', 'image': 'mather_2303.png'},
+  {'start': '04 Dec 2003','title': 'Creeda M. Brown', 'description': 'Name: Creeda M. Brown<BR>Born: 23 Aug 1935<BR>Died: 4 Dec 2003<BR>', 'image': 'mather_2349.png'},
+  {'start': '04 Nov 1996','title': 'Clara Alma Mather Long', 'description': 'Name: Clara Alma Mather Long<BR>Born: 16 Feb 1905<BR>Died: 4 Nov 1996<BR>Note: Nanny, Mom<BR>', 'image': 'mather_2325.png'},
+  {'start': '04 Nov 1998','title': 'Judith E Lavery', 'description': 'Name: Judith E Lavery<BR>Born: 7 Aug 1950<BR>Died: 4 Nov 1998<BR>', 'image': 'mather_2343.png'},
+  {'start': '05 Nov 1946','title': 'Dephna Pauline Mather', 'description': 'Name: Dephna Pauline Mather<BR>Born: 4 Jun 1915<BR>Died: 5 Nov 1946<BR>Marker Text: s/w Grady<BR>', 'image': 'mather_2312.png'},
+  {'start': '06 Dec 1998','title': 'John Christopher Patton', 'description': 'Name: John Christopher Patton<BR>Born: 29 Oct 1980<BR>Died: 6 Dec 1998<BR>', 'image': 'mather_2336.png'},
+  {'start': '07 Aug 1941','title': 'John Etta Bertram', 'description': 'Name: John Etta Bertram<BR>Born: 7 Mar 1859<BR>Died: 7 Aug 1941<BR>Marker Text: s/w Victor<BR>', 'image': 'mather_2303.png'},
+  {'start': '08 Sep 1982','title': 'Grady Lee Mather', 'description': 'Name: Grady Lee Mather<BR>Born: 23 Sep 1915<BR>Died: 8 Sep 1982<BR>Marker Text: s/w Dephna<BR>', 'image': 'mather_2312.png'}
+]
+}

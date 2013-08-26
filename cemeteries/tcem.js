@@ -3,8 +3,8 @@
     var eventSource = new Timeline.DefaultEventSource(0);
     
     var theme = Timeline.ClassicTheme.create();
-    theme.event.bubble.width = 320;
-    theme.event.bubble.height = 220;
+    theme.event.bubble.width = 620;
+    theme.event.bubble.height = 520;
     theme.ether.backgroundColors[1] = theme.ether.backgroundColors[0];
     var d = Timeline.DateTime.parseGregorianDateTime(cdate)
     var topBandHeight = 40;

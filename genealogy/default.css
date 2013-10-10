@@ -16,7 +16,6 @@ body {
 
 @media screen {
     body {
-        background-image: url(../images/stata.jpg);
         background-position: left bottom;
         background-repeat: no-repeat;	
     }

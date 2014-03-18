@@ -676,7 +676,7 @@
   {'start': '03 Sep 1946','title': 'W.P. Farley', 'description': 'Name: W.P. Farley<BR>Born: 1 Mar 1869<BR>Died: 3 Sep 1946<BR>'},
   {'start': '30 Apr 1951','title': 'Kristine Olander', 'description': 'Name: Kristine Olander<BR>Born: 24 May 1867<BR>Died: 30 Apr 1951<BR>'},
   {'start': '30 Aug 1971','title': 'Jean C Tinning', 'description': 'Name: Jean C Tinning<BR>Born: 5 Apr 1882<BR>Died: 30 Aug 1971<BR>'},
-  {'start': '30 Dec 1909','title': 'Queen Addie Shafer', 'description': 'Name: Queen Addie Shafer<BR>Born: 1 May 1896<BR>Died: 30 Dec 1909<BR>Marker Text: Wife of J.F. Shafer<BR>'},
+  {'start': '30 Dec 1909','title': 'Queen Addie Shafer', 'description': 'Name: Queen Addie Shafer<BR>Born: 1 May 1864<BR>Died: 30 Dec 1909<BR>Marker Text: Wife of J.F. Shafer<BR>'},
   {'start': '30 Dec 1962','title': 'Esther A Nelson', 'description': 'Name: Esther A Nelson<BR>Born: 28 Mar 1880<BR>Died: 30 Dec 1962<BR>Note: s/w John<BR>'},
   {'start': '30 Jan 1917','title': 'Lillie L Bryan', 'description': 'Name: Lillie L Bryan<BR>Born: 4 Aug 1859<BR>Died: 30 Jan 1917<BR>'},
   {'start': '30 Jan 1954','title': 'Denna Kelly', 'description': 'Name: Denna Kelly<BR>Born: 10 May 1873<BR>Died: 30 Jan 1954<BR>'},

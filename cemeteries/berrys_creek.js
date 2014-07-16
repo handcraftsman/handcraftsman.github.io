@@ -68,7 +68,7 @@
   {'start': '12 May 1900','title': 'Lona M Harper', 'description': 'Name: Lona M Harper<BR>Born: 27 Jan 1882<BR>Died: 12 May 1900<BR>Marker Text: dau of J.S. & Mariah<BR>', 'image': 'berrys_creek_5372.jpg'},
   {'start': '13 Aug 1893','title': 'Nancy Trammell', 'description': 'Name: Nancy Trammell<BR>Born: 22 Mar 1851<BR>Died: 13 Aug 1893<BR>', 'image': 'berrys_creek_2400.jpg'},
   {'start': '13 Jan 2005','title': 'Thalia Gammon', 'description': 'Name: Thalia Gammon<BR>Born: 15 Dec 1919<BR>Died: 13 Jan 2005<BR>Note: s/w Jack<BR>', 'image': 'berrys_creek_2465.jpg'},
-  {'start': '13 Mar 1900','title': 'Dorcey L Harper', 'description': 'Name: Dorcey L Harper<BR>Born: 16 Aug 1884<BR>Died: 13 Mar 1900<BR>Marker Text: infant son of J.B. & L.A.<BR>Note: stone is badly broken<BR>', 'image': 'berrys_creek_5369.jpg'},
+  {'start': '13 Mar 1900','title': 'Dorsey L Harper', 'description': 'Name: Dorsey L Harper<BR>Born: 16 Aug 1884<BR>Died: 13 Mar 1900<BR>Marker Text: infant son of J.B. & L.A.<BR>Note: stone is badly broken<BR>', 'image': 'berrys_creek_5369.jpg'},
   {'start': '13 Mar 2002','title': 'George Widmer', 'description': 'Name: George Widmer<BR>Born: 10 Jul 1912<BR>Died: 13 Mar 2002<BR>Note: s/w Nellie<BR>', 'image': 'berrys_creek_5502.jpg'},
   {'start': '13 Mar 2003','title': 'Bohous E Wittera', 'description': 'Name: Bohous E Wittera<BR>Born: 21 Oct 1905<BR>Died: 13 Mar 2003<BR>Note: s/w Amelia<BR>', 'image': 'berrys_creek_5541.jpg'},
   {'start': '13 May 1927','title': 'Will George', 'description': 'Name: Will George<BR>Born: 31 Mar 1876<BR>Died: 13 May 1927<BR>', 'image': 'berrys_creek_5034.jpg'},

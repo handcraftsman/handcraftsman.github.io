@@ -376,7 +376,7 @@
   {'start': '27 Nov 1992','title': 'Minnie L (Patschke) Buchhorn', 'description': 'Name: Minnie L (Patschke) Buchhorn<BR>Born: 22 Jul 1912<BR>Died: 27 Nov 1992<BR>Note: s/w Ernest<BR>', 'image': 'zions_walburg_5819.jpg'},
   {'start': '27 Nov 1997','title': 'Clara Domel', 'description': 'Name: Clara Domel<BR>Born: 24 Sep 1905<BR>Died: 27 Nov 1997<BR>', 'image': 'zions_walburg_5863.jpg'},
   {'start': '27 Sep 1906','title': 'Ella Kelm', 'description': 'Name: Ella Kelm<BR>Born: 26 Aug 1906<BR>Died: 27 Sep 1906<BR>Marker Text: Dau of Emil & Martha Kelm<BR>', 'image': 'zions_walburg_6228.jpg'},
-  {'start': '28 Aug 1908','title': 'Christianna Henriette F Trattmasser', 'description': 'Name: Christianna Henriette F Trattmasser<BR>Born: 27 Aug 1908<BR>Died: 28 Aug 1908<BR>', 'image': 'zions_walburg_6250.jpg'},
+  {'start': '28 Aug 1908','title': 'Christianna Henriette F Kaltwasser', 'description': 'Name: Christianna Henriette F Kaltwasser<BR>Born: 27 Aug 1908<BR>Died: 28 Aug 1908<BR>', 'image': 'zions_walburg_6250.jpg'},
   {'start': '28 Aug 1927','title': 'Gustav C Mirtsching', 'description': 'Name: Gustav C Mirtsching<BR>Born: 15 Jul 1867<BR>Died: 28 Aug 1927<BR>Note: s/w Lena<BR>', 'image': 'zions_walburg_5936.jpg'},
   {'start': '28 Dec 1929','title': 'August Andres', 'description': 'Name: August Andres<BR>Born: 12 Feb 1852<BR>Died: 28 Dec 1929<BR>Note: s/w Maria<BR>', 'image': 'zions_walburg_5963.jpg'},
   {'start': '28 Jan 1940','title': 'Christiana Kokel', 'description': 'Name: Christiana Kokel<BR>Born: 11 Feb 1856<BR>Died: 28 Jan 1940<BR>Note: s/w Johan<BR>', 'image': 'zions_walburg_6051.jpg'},
